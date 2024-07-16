@@ -1,0 +1,25 @@
+# Bank Marketing Data
+
+This dataset contains information about individuals contacted during a marketing campaign for a bank. The data includes demographic and banking details, as well as the response to the marketing campaign.
+
+## Attribute Information
+
+1. **customerid**: Unique identifier for each customer
+2. **age**: Age of the customer
+3. **salary**: Salary of the customer
+4. **balance**: Bank balance of the customer
+5. **marital**: Marital status of the customer (married, single, divorced)
+6. **jobedu**: Job and education level of the customer
+7. **targeted**: Whether the customer was targeted in the campaign (yes/no)
+8. **default**: Whether the customer has credit in default (yes/no)
+9. **housing**: Whether the customer has a housing loan (yes/no)
+10. **loan**: Whether the customer has a personal loan (yes/no)
+11. **contact**: Contact communication type (unknown, telephone, cellular)
+12. **day**: Last contact day of the month
+13. **month**: Last contact month of the year
+14. **duration**: Duration of the last contact in seconds
+15. **campaign**: Number of contacts performed during this campaign for this customer
+16. **pdays**: Number of days that passed by after the customer was last contacted from a previous campaign (-1 means client was not previously contacted)
+17. **previous**: Number of contacts performed before this campaign for this customer
+18. **poutcome**: Outcome of the previous marketing campaign (unknown, other, failure, success)
+19. **response**: Customer's response to the current campaign (yes/no)
